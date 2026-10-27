@@ -12,3 +12,4 @@ Development approach: Built through a combination of personal coding, experiment
 Learning goals: Improve Python programming skills, explore numerical modeling, and develop interactive scientific visualizations.
 
 *Note: This is an educational simulation. Its physical assumptions and estimated quantities have not all been independently validated against a real engine.*
+<img width="1784" height="867" alt="image" src="https://github.com/user-attachments/assets/866593a8-f9f4-4236-b828-d1530e87e3b2" />
